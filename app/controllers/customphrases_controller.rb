@@ -1,0 +1,2 @@
+class CustomphrasesController < ApplicationController
+end
